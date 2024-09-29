@@ -1,0 +1,23 @@
+* {
+    font-family: "Helvetica", "Georgia", sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    background-color: rgb(92, 92, 173);
+    color: white;
+}
+
+h1.recipe-header {
+    font-size: 25px;
+}
+
+.image {
+    height: auto;
+    width: 300px;
+}
+
+h2 {
+    background-color: rgb(200, 200, 200);
+}
+
